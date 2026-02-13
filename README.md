@@ -8,7 +8,7 @@ Hello and welcome! In this repository, I've documented all my journeys with K8s.
 ![Screenshot of Kubernetes-K8s Monitoring Grafana With Worker Added on the right side termnial](https://github.com/zulfyy/Kubernetes-K8s/blob/main/K8s%20Monitoring%20Grafana%20.png)
 ![Screenshot](https://github.com/zulfyy/Kubernetes-K8s/blob/main/K8s%20Monitoring%20Grafana%20-%202.png)
 
-## Installing Loki (Grafana) Logs
+## Loki (Grafana) Logs
 ![Screenshot](https://github.com/zulfyy/Kubernetes-K8s/blob/main/Loki%20-%20Logs.png)
 ![Screenshot](https://github.com/zulfyy/Kubernetes-K8s/blob/main/Data%20Source%20-%20Grafana.png)
 
