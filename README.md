@@ -10,8 +10,12 @@ Hello and welcome! In this repository, I've documented all my journeys with K8s.
 
 ## Installing Loki (Grafana) Logs
 ![Screenshot](https://github.com/zulfyy/Kubernetes-K8s/blob/main/Loki%20-%20Logs.png)
+![Screenshot](https://github.com/zulfyy/Kubernetes-K8s/blob/main/Data%20Source%20-%20Grafana.png)
 
-## ArgoCD
+## CI (Continuous Integration) / Github Action
+![Screenshot](https://github.com/zulfyy/Kubernetes-K8s/blob/main/Github%20Action.png)
+
+## CD (Continuous Delivery) / ArgoCD
 ![Screenshot](https://github.com/zulfyy/Kubernetes-K8s/blob/main/ArgoCD.png)
 ![Screenshot](https://github.com/zulfyy/Kubernetes-K8s/blob/main/ArgoCD%20-%20result.png)
 
