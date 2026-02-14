@@ -1,3 +1,11 @@
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/-Loki-0A0A0A?logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Stars](https://img.shields.io/github/stars/zulfyy/Kubernetes-K8s?style=social)
+
 # Kubernetes (K8s) Portofolio
 Hello and welcome! In this repository, I've documented all my journeys with K8s. Thank you for visiting.
 
