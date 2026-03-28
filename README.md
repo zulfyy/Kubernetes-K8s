@@ -7,6 +7,9 @@
 ![Stars](https://img.shields.io/github/stars/zulfyy/Kubernetes-K8s?style=social)
 
 # Kubernetes (K8s) Portofolio
+Edit (28/03/2026) I'm sorry, I didn't think to save the files, so they were deleted along with Virtual Box 😅
+So for this project, I can only show screenshots, sorry.
+
 Hello and welcome! In this repository, I've documented all my journeys with K8s. Thank you for visiting.
 
 ## Installing Tools K8s and Flannel (Networking)
