@@ -8,6 +8,7 @@
 
 # Kubernetes (K8s) Portofolio
 Edit (28/03/2026) I'm sorry, I didn't think to save the files, so they were deleted along with Virtual Box 😅
+Edit (24/04/2026) I think I have some backup files, but I don't think I want to upload them for this project.
 So for this project, I can only show screenshots, sorry.
 
 Hello and welcome! In this repository, I've documented all my journeys with K8s. Thank you for visiting.
